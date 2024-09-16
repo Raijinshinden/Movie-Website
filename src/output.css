@@ -559,8 +559,24 @@ video {
   margin-right: auto;
 }
 
+.flex {
+  display: flex;
+}
+
 .max-w-\[1640\] {
   max-width: 1640;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .text-orange-600 {
