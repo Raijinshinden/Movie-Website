@@ -571,6 +571,10 @@ video {
   display: flex;
 }
 
+.w-\[1640\] {
+  width: 1640;
+}
+
 .max-w-\[1640\] {
   max-width: 1640;
 }
