@@ -563,6 +563,10 @@ video {
   display: flex;
 }
 
+.h-\[100px\] {
+  height: 100px;
+}
+
 .min-h-\[100vh\] {
   min-height: 100vh;
 }
