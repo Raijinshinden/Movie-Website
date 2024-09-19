@@ -714,6 +714,18 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.hover\:duration-75:hover {
+  transition-duration: 75ms;
+}
+
+.hover\:duration-100:hover {
+  transition-duration: 100ms;
+}
+
+.hover\:duration-200:hover {
+  transition-duration: 200ms;
+}
+
 @media (min-width: 640px) {
   .sm\:text-xl {
     font-size: 1.25rem;
