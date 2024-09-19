@@ -575,6 +575,10 @@ video {
   height: 75px;
 }
 
+.h-\[100\%\] {
+  height: 100%;
+}
+
 .min-h-\[100vh\] {
   min-height: 100vh;
 }
@@ -751,6 +755,10 @@ video {
 
 .hover\:duration-200:hover {
   transition-duration: 200ms;
+}
+
+.hover\:duration-300:hover {
+  transition-duration: 300ms;
 }
 
 @media (min-width: 640px) {
