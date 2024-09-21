@@ -4,5 +4,6 @@ export const movieList = [
         title: ,
         genre: ,
         image: ,
+        rating: ,
     }
 ]
