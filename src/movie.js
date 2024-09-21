@@ -5,5 +5,8 @@ export const movieList = [
         genre: ,
         image: ,
         rating: ,
+    },
+    {
+        
     }
 ]
