@@ -6,7 +6,5 @@ export const movieList = [
         image: ,
         rating: ,
     },
-    {
-        
-    }
+    
 ]
