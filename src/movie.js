@@ -1,6 +1,6 @@
 export const movieList = [
     {
-        id: ,
+        id: 1,
         title: ,
         genre: ,
         image: ,
