@@ -63,7 +63,7 @@ export const movieList = [
         rating: ,
     },
     {
-        id: ,
+        id: 10,
         title: ,
         genre: ,
         image: ,
