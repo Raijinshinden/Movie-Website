@@ -43,7 +43,7 @@ export const movieList = [
     },
     {
         id: 7,
-        title: "",
+        title: "Enter the Dragon",
         genre: "",
         image: ,
         rating: ,
