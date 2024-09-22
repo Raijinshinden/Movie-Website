@@ -8,7 +8,7 @@ export const movieList = [
     },
     {
         id: 2,
-        title: "",
+        title: "300",
         genre: "",
         image: ,
         rating: ,
