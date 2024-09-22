@@ -2,14 +2,14 @@ export const movieList = [
     {
         id: 1,
         title: "Star Wars",
-        genre: "",
+        genre: "Sci-Fi",
         image: ,
         rating: ,
     },
     {
         id: 2,
         title: "300",
-        genre: "",
+        genre: "Action",
         image: ,
         rating: ,
     },
