@@ -22,7 +22,7 @@ export const movieList = [
     },
     {
         id: 4,
-        title: "",
+        title: "Black Dynamite",
         genre: "",
         image: ,
         rating: ,
