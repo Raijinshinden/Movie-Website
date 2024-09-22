@@ -84,7 +84,7 @@ export const movieList = [
         rating: ,
     },
     {
-        id: 10,
+        id: 13,
         title: ,
         genre: ,
         image: ,
