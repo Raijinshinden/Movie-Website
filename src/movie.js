@@ -29,7 +29,7 @@ export const movieList = [
     },
     {
         id: 5,
-        title: "",
+        title: "Snake in the Eagle's shadow",
         genre: "",
         image: ,
         rating: ,
