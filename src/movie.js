@@ -1,7 +1,7 @@
 export const movieList = [
     {
         id: 1,
-        title: "",
+        title: "Star Wars",
         genre: "",
         image: ,
         rating: ,
