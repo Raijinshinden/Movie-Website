@@ -125,4 +125,11 @@ export const movieList = [
         image: ,
         rating: ,
     },
+    {
+        id: 19,
+        title: ,
+        genre: ,
+        image: ,
+        rating: ,
+    },
 ]
