@@ -1,0 +1,1 @@
+import { movieList } from "./movie";
