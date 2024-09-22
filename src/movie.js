@@ -15,7 +15,7 @@ export const movieList = [
     },
     {
         id: 3,
-        title: "",
+        title: "Straight outta Compton",
         genre: "",
         image: ,
         rating: ,
