@@ -11,6 +11,7 @@ export const movieList = [
         id: 2,
         title: "300",
         genre: "Action",
+        age: "R16",
         image: ,
         rating: ,
     },
