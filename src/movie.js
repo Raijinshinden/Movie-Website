@@ -107,7 +107,7 @@ export const movieList = [
     {
         id: 16,
         title: "Alien",
-        genre: "",
+        genre: "Horror",
         image: ,
         rating: ,
     },
