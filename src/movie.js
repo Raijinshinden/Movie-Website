@@ -134,7 +134,7 @@ export const movieList = [
     },
     {
         id: 20,
-        title: "",
+        title: "My Neighbour Totoro",
         genre: "",
         image: ,
         rating: ,
