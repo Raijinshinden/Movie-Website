@@ -120,7 +120,7 @@ export const movieList = [
     },
     {
         id: 18,
-        title: "",
+        title: "The Last Samurai",
         genre: "",
         image: ,
         rating: ,
