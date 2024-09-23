@@ -99,7 +99,7 @@ export const movieList = [
     },
     {
         id: 15,
-        title: "",
+        title: "I love you man",
         genre: "",
         image: ,
         rating: ,
