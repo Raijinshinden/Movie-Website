@@ -65,13 +65,13 @@ export const movieList = [
     {
         id: 10,
         title: "Saving Private Ryan",
-        genre: "",
+        genre: "Action",
         image: ,
         rating: ,
     },
     {
         id: 11,
-        title: "",
+        title: "Killing Machine (Shorinji Kempo)",
         genre: "",
         image: ,
         rating: ,
