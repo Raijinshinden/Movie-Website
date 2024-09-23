@@ -3,6 +3,7 @@ export const movieList = [
         id: 1,
         title: "Star Wars",
         genre: "Sci-Fi",
+        age: "Pg",
         image: ,
         rating: ,
     },
