@@ -51,6 +51,7 @@ export const movieList = [
         id: 7,
         title: "Enter the Dragon",
         genre: "Action",
+        age: "R16",
         image: ,
         rating: ,
     },
