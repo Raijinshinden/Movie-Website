@@ -147,6 +147,7 @@ export const movieList = [
         id: 19,
         title: "My Sassy Girl",
         genre: "Comedy",
+        age: "Pg",
         image: ,
         rating: ,
     },
