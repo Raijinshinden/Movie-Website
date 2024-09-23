@@ -64,7 +64,7 @@ export const movieList = [
     },
     {
         id: 10,
-        title: "",
+        title: "Saving Private Ryan",
         genre: "",
         image: ,
         rating: ,
