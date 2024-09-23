@@ -100,13 +100,13 @@ export const movieList = [
     {
         id: 15,
         title: "I love you man",
-        genre: "",
+        genre: "Comedy",
         image: ,
         rating: ,
     },
     {
         id: 16,
-        title: "",
+        title: "Alien",
         genre: "",
         image: ,
         rating: ,
