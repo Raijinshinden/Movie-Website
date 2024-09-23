@@ -113,7 +113,7 @@ export const movieList = [
     },
     {
         id: 17,
-        title: "",
+        title: "A Nightmare on Elm St",
         genre: "",
         image: ,
         rating: ,
