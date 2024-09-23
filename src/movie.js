@@ -91,6 +91,7 @@ export const movieList = [
         id: 12,
         title: "American Pie",
         genre: "Comedy",
+        age: "R16",
         image: ,
         rating: ,
     },
