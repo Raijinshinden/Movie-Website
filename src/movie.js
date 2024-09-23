@@ -57,7 +57,7 @@ export const movieList = [
     },
     {
         id: 9,
-        title: "",
+        title: "Drunken Master",
         genre: "",
         image: ,
         rating: ,
