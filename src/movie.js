@@ -43,6 +43,7 @@ export const movieList = [
         id: 6,
         title: "Ip Man",
         genre: "Action",
+        age: "R16",
         image: ,
         rating: ,
     },
