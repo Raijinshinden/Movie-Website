@@ -79,7 +79,7 @@ export const movieList = [
     {
         id: 12,
         title: "American Pie",
-        genre: "",
+        genre: "Comedy",
         image: ,
         rating: ,
     },
