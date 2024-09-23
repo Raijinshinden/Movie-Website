@@ -134,7 +134,7 @@ export const movieList = [
     },
     {
         id: 20,
-        title: "My Neighbour Totoro",
+        title: "From Up on Poppy Hill",
         genre: "",
         image: ,
         rating: ,
