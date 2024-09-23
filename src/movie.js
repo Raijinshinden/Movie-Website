@@ -92,7 +92,7 @@ export const movieList = [
     },
     {
         id: 14,
-        title: "",
+        title: "The Notebook",
         genre: "",
         image: ,
         rating: ,
