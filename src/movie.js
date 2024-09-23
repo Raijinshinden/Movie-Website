@@ -72,7 +72,7 @@ export const movieList = [
     {
         id: 11,
         title: "Killing Machine (Shorinji Kempo)",
-        genre: "",
+        genre: "Action",
         image: ,
         rating: ,
     },
