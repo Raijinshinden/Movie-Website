@@ -115,6 +115,7 @@ export const movieList = [
         id: 15,
         title: "I love you man",
         genre: "Comedy",
+        age: "R16",
         image: ,
         rating: ,
     },
