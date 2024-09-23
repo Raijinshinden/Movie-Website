@@ -35,6 +35,7 @@ export const movieList = [
         id: 5,
         title: "Snake in the Eagle's shadow",
         genre: "Action",
+        age: "M",
         image: ,
         rating: ,
     },
