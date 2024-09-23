@@ -99,6 +99,7 @@ export const movieList = [
         id: 13,
         title: "Kung-Fu Hustle",
         genre: "Comedy",
+        age: "Pg",
         image: ,
         rating: ,
     },
