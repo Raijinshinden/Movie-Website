@@ -59,6 +59,7 @@ export const movieList = [
         id: 8,
         title: "The Simpsons Movie",
         genre: "Comedy",
+        age: "Pg",
         image: ,
         rating: ,
     },
