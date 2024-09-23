@@ -27,6 +27,7 @@ export const movieList = [
         id: 4,
         title: "Black Dynamite",
         genre: "Comedy",
+        age: "R16",
         image: ,
         rating: ,
     },
