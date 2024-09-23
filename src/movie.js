@@ -139,6 +139,7 @@ export const movieList = [
         id: 18,
         title: "The Last Samurai",
         genre: "Action",
+        age: "M",
         image: ,
         rating: ,
     },
