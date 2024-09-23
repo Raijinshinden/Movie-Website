@@ -107,6 +107,7 @@ export const movieList = [
         id: 14,
         title: "The Notebook",
         genre: "Romance",
+        age: "Pg",
         image: ,
         rating: ,
     },
