@@ -1,4 +1,4 @@
 import { movieList } from "./movie";
 
 
-const 
+function
