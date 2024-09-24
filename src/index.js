@@ -1,6 +1,3 @@
 import { movieList } from "./movie";
 
-
-const filterGenre = (genre) => {
-    
-}
+const movies = Object.values()
