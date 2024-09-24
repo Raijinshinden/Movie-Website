@@ -1,4 +1,4 @@
 import { movieList } from "./movie";
 
 
-function
+function filterByGenre ()
