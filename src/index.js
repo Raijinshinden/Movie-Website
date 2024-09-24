@@ -2,5 +2,5 @@ import { movieList } from "./movie";
 
 
 function filterByGenre (list, genre) {
-    return 
+    return list.filter()
 }
