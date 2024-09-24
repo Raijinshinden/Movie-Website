@@ -1,6 +1,6 @@
 import { movieList } from "./movie";
 
 
-function filterByGenre (genre) {
+function filterByGenre (list, genre) {
     return 
 }
