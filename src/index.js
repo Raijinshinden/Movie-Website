@@ -1,3 +1,3 @@
 import { movieList } from "./movie";
 
-const movies = Object.values()
+const movies = Object.values(
