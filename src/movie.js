@@ -161,7 +161,7 @@ export const movieList = [
     },
     {
         id: 20,
-        title: "The",
+        title: "The Wind",
         genre: "Drama",
         age: "Pg",
         image: ,
