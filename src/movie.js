@@ -85,7 +85,7 @@ export const movieList = [
         genre: "Action",
         age: "M",
         image: ,
-        rating: v,
+        rating: "5 stars",
     },
     {
         id: 12,
