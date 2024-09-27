@@ -165,6 +165,6 @@ export const movieList = [
         genre: "Animation",
         age: "Pg",
         image: ,
-        rating: ,
+        rating: "5 stars",
     },
 ]
