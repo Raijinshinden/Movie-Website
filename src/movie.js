@@ -159,4 +159,12 @@ export const movieList = [
         image: ,
         rating: ,
     },
+    {
+        id: 20,
+        title: "From Up on Poppy Hill",
+        genre: "Drama",
+        age: "Pg",
+        image: ,
+        rating: ,
+    },
 ]
