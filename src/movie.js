@@ -52,7 +52,7 @@ export const movieList = [
         title: "Enter the Dragon",
         genre: "Action",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters/images/enter-the-dragon.webp,
         rating: "5 stars",
     },
     {
