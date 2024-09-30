@@ -92,7 +92,7 @@ export const movieList = [
         title: "American Pie",
         genre: "Comedy",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters/images/american-pie.webp,
         rating: "2 stars",
     },
     {
