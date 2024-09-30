@@ -124,7 +124,7 @@ export const movieList = [
         title: "Alien",
         genre: "Horror",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters/images/alien.webp,
         rating: "5 stars",
     },
     {
