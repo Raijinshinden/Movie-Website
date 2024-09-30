@@ -108,7 +108,7 @@ export const movieList = [
         title: "The Notebook",
         genre: "Romance",
         age: "Pg",
-        image: ,
+        image: src/Images/Movie-Posters/images/the-notebook.webp,
         rating: "3 stars",
     },
     {
