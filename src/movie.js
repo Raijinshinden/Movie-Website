@@ -132,7 +132,7 @@ export const movieList = [
         title: "A Nightmare on Elm St",
         genre: "Horror",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters/images/a-nightmare-on-elm-st.webp,
         rating: "4 stars",
     },
     {
