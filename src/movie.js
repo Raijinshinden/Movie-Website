@@ -12,7 +12,7 @@ export const movieList = [
         title: "300",
         genre: "Action",
         age: "R16",
-        image: src/Images/Movie-Posters/images/300.webp,
+        image: ,
         rating: "3 stars",
     },
     {
@@ -20,7 +20,7 @@ export const movieList = [
         title: "Straight outta Compton",
         genre: "Drama",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters,
         rating: "4 stars",
     },
     {
