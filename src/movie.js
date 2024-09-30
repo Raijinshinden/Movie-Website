@@ -12,7 +12,7 @@ export const movieList = [
         title: "300",
         genre: "Action",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters/images/300.webp,
         rating: "3 stars",
     },
     {
