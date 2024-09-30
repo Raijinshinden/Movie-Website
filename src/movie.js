@@ -60,7 +60,7 @@ export const movieList = [
         title: "The Simpsons Movie",
         genre: "Comedy",
         age: "Pg",
-        image: ,
+        image: src/Images/Movie-Posters/images/the-simpsons-movie.webp,
         rating: "5 stars",
     },
     {
