@@ -116,7 +116,7 @@ export const movieList = [
         title: "I love you man",
         genre: "Comedy",
         age: "R16",
-        image: ,
+        image: src/Images/Movie-Posters/images/i-love-you-man.webp,
         rating: "5 stars",
     },
     {
