@@ -4,7 +4,7 @@ export const movieList = [
         title: "Star Wars",
         genre: "Sci-Fi",
         age: "Pg",
-        image: ,
+        image: src/Images/Movie Posters/images/star-wars.webp,
         rating: "5 stars",
     },
     {
