@@ -76,7 +76,7 @@ export const movieList = [
         title: "Saving Private Ryan",
         genre: "Action",
         age: "R15",
-        image: ,
+        image: src/Images/Movie-Posters/images/saving-private-ryan.jpg,
         rating: "5 stars",
     },
     {
