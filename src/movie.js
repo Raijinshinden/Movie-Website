@@ -100,7 +100,7 @@ export const movieList = [
         title: "Kung-Fu Hustle",
         genre: "Comedy",
         age: "Pg",
-        image: ,
+        image: src/Images/Movie-Posters/images/kung-fu-hustle.jpg,
         rating: "4 stars",
     },
     {
