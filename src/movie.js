@@ -20,7 +20,7 @@ export const movieList = [
         title: "Straight outta Compton",
         genre: "Drama",
         age: "R16",
-        image: src/Images/Movie-Posters,
+        image: src/Images/Movie-Posters/images/straight-outta-compton.webp,
         rating: "4 stars",
     },
     {
