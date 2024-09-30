@@ -140,7 +140,7 @@ export const movieList = [
         title: "The Last Samurai",
         genre: "Action",
         age: "M",
-        image: ,
+        image: src/Images/Movie-Posters/images/the-last-samurai.jpg,
         rating: "5 stars",
     },
     {
